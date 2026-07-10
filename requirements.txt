@@ -1,0 +1,15 @@
+crewai
+crewai-tools
+
+fastapi
+uvicorn[standard]
+
+langchain
+langchain-google-genai
+
+google-generativeai
+
+python-dotenv
+requests
+beautifulsoup4
+duckduckgo-search
