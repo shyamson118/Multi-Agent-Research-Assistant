@@ -70,7 +70,7 @@ Multi-Agent-Research-Assistant/
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - FastAPI
